@@ -31,12 +31,7 @@
 ---
 
 ---
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/ar14nn422/count.svg"/>
-  </div> 
-</p>
+![Visitor Count](https://profile-counter.glitch.me/ar14nn422/count.svg)
 
 
 
