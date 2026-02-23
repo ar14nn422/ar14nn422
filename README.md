@@ -25,8 +25,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ar14nn422&show_icons=true&theme=gotham" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar14nn422&theme=gotham" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar14nn422&layout=compact&theme=gotham" alt="Top Languages"/>
+  
+  <img src="https://streak-stats.demolab.com?user=ar14nn422&theme=gotham" width="400" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar14nn422&layout=compact&theme=gotham" width="400" />
 </p>
 ---
 
