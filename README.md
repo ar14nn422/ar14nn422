@@ -20,7 +20,7 @@
 
 ### 🧩 Featured Projects
 
-- 📌 **[BolsaEmpleo](https://github.com/ar14nn422)** 
+- 📌 **[BolsaEmpleo](https://github.com/RoyBadilla/Proyecto2BolsaEmpleoP4)** 
   Full-stack job board platform with Spring Boot (backend) and React/Vite (frontend), featuring role-based dashboards (employers and admins), JWT authentication, and full job posting management.
 
 - 📌 **[PlanInteractivo](https://github.com/ar14nn422/PlanInteractivo)**
